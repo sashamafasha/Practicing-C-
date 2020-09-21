@@ -1,1 +1,2 @@
-# Practicing-C-
+# Practicing-C++ 
+##Collection of small projects 
